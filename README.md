@@ -31,3 +31,5 @@ Complementary shaders
 Sildur's Vibrant shaders
 ---
 #### - 推薦材質
+XKRD 红显v3.3
+护眼大补丸
